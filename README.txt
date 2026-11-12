@@ -1,0 +1,1 @@
+to launch the website, enter the terminal in whatever OS youre using, cd to LOOKEETER folder, first run database.py to make the database work, then run app.py to get the website working and go into whatever browser you use and search http://127.0.0.1:5000/ and it should run

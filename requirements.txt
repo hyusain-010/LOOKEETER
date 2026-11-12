@@ -1,0 +1,4 @@
+flask
+email-validator
+requests
+dnspython
